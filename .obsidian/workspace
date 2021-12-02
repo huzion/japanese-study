@@ -7,9 +7,25 @@
         "id": "d4e5ba1514939de8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "日常用语.md",
+            "mode": "source"
+          }
+        },
+        "group": "b84abfe4d43d204c"
+      },
+      {
+        "id": "6dada54d49beacf3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "日常用语.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b84abfe4d43d204c"
       }
     ],
     "direction": "vertical"
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "日常用语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +100,9 @@
     "collapsed": true
   },
   "active": "d4e5ba1514939de8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "未命名.md",
+    "曜日.md",
+    "番号.md"
+  ]
 }
