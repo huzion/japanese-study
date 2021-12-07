@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "208b27cc7c8446d5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "蔬菜/蔬菜.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "5b1a32fcde7648dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "蔬菜/蔬菜.md",
+            "file": "常用语/日常用语.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "aae703ce2c123aa5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "常用语/日常用语.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f22474356ec6e533",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "蔬菜/蔬菜.md",
+                "file": "常用语/日常用语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +100,8 @@
   },
   "active": "5b1a32fcde7648dd",
   "lastOpenFiles": [
+    "常用语/日常用语.md",
     "蔬菜/蔬菜.md",
-    "日常用语.md",
     "番号.md",
     "蔬菜/attachments/Pasted image 20211205090739.png",
     "蔬菜/attachments/Pasted image 20211205090643.png",
