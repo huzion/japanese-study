@@ -1,6 +1,5 @@
 # 忽略Obsidian缓存文件
 /.obsidian/workspace
-/.obsidian/workspace
 
 # 忽略VSCode local-history插件生成的本地备份文件
 /.history/
